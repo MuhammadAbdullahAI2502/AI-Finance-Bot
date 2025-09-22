@@ -1,0 +1,8 @@
+streamlit
+sqlmodel
+pandas
+matplotlib
+python-dotenv
+yfinance
+# Optional: Groq SDK for LLM features (only needed if using Groq API)
+groq
